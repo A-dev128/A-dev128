@@ -1,5 +1,11 @@
-## Hi there 👋
+## About Me
 
+Hi! I'm Angel! I'm new here! 
+
+- I'm finishing my CIS degree
+- I'm interested in web development and data analytics
+- I can't wait to use what I've learned in school in the real world
+  
 <!--
 **A-dev128/A-dev128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
